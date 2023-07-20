@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Guess-text {
+    color: black;
+    font-family: Roboto;
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Number {
+    background-color: black;
+    font-size: 100px;
+    padding: 10px 70px 10px 70px;
+    font-family: Times New Roman;
+}
+
+.Start-guess {
+    color: black;
+    font-family: Roboto;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.guess {
+    background-color: black;
+    border-radius: 10px;
+    outline: none;
+    color: white;
+    margin: 20px 0px 20px 0px;
+    width: 100%;
+    font-size: 30px;
+    padding: 15px;
+    border: 4px solid white;
+
+}
+
+.button1 {
+
+    font-size: 50px;
+}
+
+.button2 {
+    width: 100%;
+    height: 70px;
+    font-size: 45px;
+}
+
+.Start-guess1 {
+    color: black;
+    font-size: 30px;
+    font-family: Roboto;
+    font-weight: 600;
+    margin: 20px 0px 30px 30px;
+}
+
+.Start-guess2 {
+    color: black;
+    font-size: 30px;
+    font-family: Roboto;
+    margin: 0px 0px 30px 30px;
+    font-weight: 600;
+}
